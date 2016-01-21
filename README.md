@@ -557,8 +557,8 @@ Timezone:
 Integration with Frameworks
 ---------------------------
 
-* [Laravel 4 & 5](https://github.com/toin0u/Geotools-laravel)
-* [Silex](https://github.com/toin0u/Geotools-silex)
+* [Laravel 4 & 5](https://github.com/adeb6600/Geotools-laravel)
+* [Silex](https://github.com/adeb6600/Geotools-silex)
 * ...
 
 
