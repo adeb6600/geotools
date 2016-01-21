@@ -1,5 +1,5 @@
 {
-    "name"        : "league/geotools",
+    "name"        : "adeb6600/geotools",
     "type"        : "library",
     "description" : "Geo-related tools PHP 5.3 library",
     "keywords"    : ["geotools", "geometry", "geocoder", "geocoding", "geoip", "bounds", "distance", "batch", "async"],
