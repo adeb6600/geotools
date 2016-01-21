@@ -57,7 +57,7 @@ The recommended way to install **Geotools** is through [composer](http://getcomp
 Run the following on the command line:
 
 ```
-php composer require league/geotools=@stable
+php composer require adeb6600/geotools=@stable
 ```
 
 **Protip:** you should browse the
